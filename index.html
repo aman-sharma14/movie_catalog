@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Movie Catalog</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="movie.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Lora&family=Merriweather&family=Montserrat&family=Nunito&family=Open+Sans&family=Poppins&family=Roboto&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+<body>
+		
+
+		<div id="nav">
+			<h3  id="imdb">IMDb</h3>
+			<form>
+				<button id="home"><i class="fa-solid fa-house"></i></button>
+				<div style="display: flex; flex-direction: column;">
+					<div style="display: flex; flex-direction: row;">
+						<input type="text" id="search" placeholder="Search movies ">
+						<button id="enter"><i class="fa-solid fa-magnifying-glass" ></i></button>
+					</div>
+					<div id="dropdown">
+						
+					</div>
+				</div>
+			</form>
+			
+		</div>
+
+		
+		<div id="sort">
+			<Label for="sortby">Sort By </Label>
+			<select name="" id="sortby">
+				<option value="Default">Default</option>
+				<option value="Rating">Rating</option>
+				<option value="Year">Year</option>
+			</select>
+			
+		</div>
+		
+		<div id="movie-list"></div>
+
+		<div id="movie-detail"></div>
+		
+		<script src="movie.js"></script>
+	
+</body>
+</html>

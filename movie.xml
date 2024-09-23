@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<moviedetails>
+<movie>
+        <title>Her</title>
+        <index>1</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/4/44/Her2013Poster.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/ne6p6MfLBxc?autoplay=1&amp;controls=0"</vlink>
+        <info>A touching story about a man who falls in love with an artificial intelligence operating system.</info>
+        <cast>Joaquin Phoenix | Scarlett Johansson</cast>
+        <year>2013</year>
+        <director>Spike Jonze</director>
+        <genre>Drama, Romance, Sci-Fi</genre>
+        <rating>8.0</rating>
+    </movie>
+
+    <movie>
+        <title>Interstellar</title>
+        <index>5</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/zSWdZVtXT7E?autoplay=1&amp;controls=0"</vlink>
+        <info>An epic sci-fi adventure that explores the boundaries of space, time, and human endurance.</info>
+        <cast>Matthew McConaughey | Anne Hathaway</cast>
+        <year>2014</year>
+        <director>Christopher Nolan</director>
+        <genre>Sci-Fi, Adventure</genre>
+        <rating>8.6</rating>
+    </movie>
+
+    <movie>
+        <title>Before Sunrise</title>
+        <index>3</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/d/da/Before_Sunrise_poster.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/6MUcuqbGTxc?autoplay=1&amp;controls=0"</vlink>
+        <info>A beautifully crafted romance following two strangers who connect deeply over a single night in Vienna.</info>
+        <cast>Ethan Hawke | Julie Delpy</cast>
+        <year>1995</year>
+        <director>Richard Linklater</director>
+        <genre>Drama, Romance</genre>
+        <rating>8.1</rating>
+    </movie>
+
+    <movie>
+        <title>Swades</title>
+        <index>8</index>
+        <ilink>https://static.toiimg.com/photo/61294487.cms</ilink>
+        <vlink>"https://www.youtube.com/embed/vc7AZNWvs0M?autoplay=1&amp;controls=0"</vlink>
+        <info>An inspiring story about an NRI who returns to India and rediscovers his roots and sense of purpose.</info>
+        <cast>Shah Rukh Khan | Gayatri Joshi</cast>
+        <year>2004</year>
+        <director>Ashutosh Gowariker</director>
+        <genre>Drama</genre>
+        <rating>8.2</rating>
+    </movie>
+
+    <movie>
+        <title>12 Angry Men</title>
+        <index>4</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/12_Angry_Men_%281957_film_poster%29.jpg/330px-12_Angry_Men_%281957_film_poster%29.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/TEN-2uTi2c0?autoplay=1&amp;controls=0"</vlink>
+        <info>A gripping courtroom drama that explores the complexities of human nature and the judicial process.</info>
+        <cast>Henry Fonda | Lee J. Cobb</cast>
+        <year>1957</year>
+        <director>Sidney Lumet</director>
+        <genre>Drama</genre>
+        <rating>9.0</rating>
+    </movie>
+
+    <movie>
+        <title>Toy Story</title>
+        <index>9</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/v-PjgYDrg70?autoplay=1&amp;controls=0"</vlink>
+        <info>An animated adventure about toys that come to life when their owner is not around.</info>
+        <cast>TOM HANKS | TIM ALLEN</cast>
+        <year>1995</year>
+        <director>John Lasseter</director>
+        <genre>Animation, Comedy</genre>
+        <rating>8.1</rating>
+    </movie>
+
+    <movie>
+        <title>Incendies</title>
+        <index>5</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/a/a0/Incendies.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/XJ69WnwvZhE?autoplay=1&amp;controls=0"</vlink>
+        <info>A gripping drama that explores the past of a woman and her family, uncovering hidden secrets from a war-torn country.</info>
+        <cast>Lubna Azabal | Mélissa Désormeaux-Poulin</cast>
+        <year>2010</year>
+        <director>Denis Villeneuve</director>
+        <genre>Drama, Mystery</genre>
+        <rating>8.2</rating>
+    </movie>
+
+    <movie>
+        <title>Past Lives</title>
+        <index>5</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/d/da/Past_Lives_film_poster.png</ilink>
+        <vlink>"https://www.youtube.com/embed/kA244xewjcI?autoplay=1&amp;controls=0"</vlink>
+        <info>Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.</info>
+        <cast>Greta Lee | Teo Yoo | John Magaro</cast>
+        <year>2023</year>
+        <director>Celine Song</director>
+        <genre>Drama, Romance</genre>
+        <rating>7.8</rating>
+    </movie>
+
+    <movie>
+        <title>Oppenheimer</title>
+        <index>6</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/uYPbbksJxIg?autoplay=1&amp;controls=0"</vlink>
+        <info>A biographical drama delving into the life and mind of the man who led the Manhattan Project.</info>
+        <cast>Cillian Murphy | Robert Downey Jr.</cast>
+        <year>2023</year>
+        <director>Christopher Nolan</director>
+        <genre>Biography, Drama</genre>
+        <rating>8.9</rating>
+    </movie>
+
+    <movie>
+        <title>The Perks of Being a Wallflower</title>
+        <index>12</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/0/0b/The_Perks_of_Being_a_Wallflower_Poster.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/2vb2qrcPEEs?autoplay=1&amp;controls=0"</vlink>
+        <info>A coming-of-age film about a high school freshman dealing with personal struggles and friendships.</info>
+        <cast>Logan Lerman | Emma Watson</cast>
+        <year>2012</year>
+        <director>Stephen Chbosky</director>
+        <genre>Drama, Romance</genre>
+        <rating>8.0</rating>
+    </movie>
+
+    <movie>
+        <title>Coherence</title>
+        <index>17</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/9/9d/Coherence_2013_theatrical_poster.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/kxAOewNzz-8?autoplay=1&amp;controls=0"</vlink>
+        <info>A sci-fi thriller about a dinner party that takes an unsettling turn when a comet passes overhead, leading to strange occurrences.</info>
+        <cast>Emily Baldoni | Maury Sterling</cast>
+        <year>2013</year>
+        <director>James Ward Byrkit</director>
+        <genre>Sci-Fi, Thriller</genre>
+        <rating>7.2</rating>
+    </movie>
+
+    <movie>
+        <title>Deadpool</title>
+        <index>2</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/2/23/Deadpool_%282016_poster%29.png</ilink>
+        <vlink>"https://www.youtube.com/embed/Xithigfg7dA?autoplay=1&amp;controls=0"</vlink>
+        <info>A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.</info>
+        <cast>Ryan Reynolds | Morena Baccarin | T.J. Miller</cast>
+        <year>2016</year>
+        <director>Shawn Levy</director>
+        <genre>Comedy</genre>
+        <rating>8.2</rating>
+    </movie>
+
+    <movie>
+        <title>The Pianist</title>
+        <index>9</index>
+        <ilink>https://upload.wikimedia.org/wikipedia/en/a/a6/The_Pianist_movie.jpg</ilink>
+        <vlink>"https://www.youtube.com/embed/BFwGqLa_oAo?autoplay=1&amp;controls=0"</vlink>
+        <info>A poignant tale of survival amidst the horrors of World War II, centered on a pianist's struggle to stay alive.</info>
+        <cast>Adrien Brody | Thomas Kretschmann</cast>
+        <year>2002</year>
+        <director>Roman Polanski</director>
+        <genre>Biography, Drama, Music</genre>
+        <rating>8.5</rating>
+    </movie>
+
+    <movie>
+    <title>Predestination</title>
+    <index>18</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/4/4b/Predestination_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/xxG-YfedrfU?autoplay=1&amp;controls=0"</vlink>
+    <info>A mind-bending sci-fi film about a temporal agent on a time-traveling mission to prevent a crime.</info>
+    <cast>Ethan Hawke | Sarah Snook</cast>
+    <year>2014</year>
+    <director>Michael Spierig, Peter Spierig</director>
+    <genre>Sci-Fi, Thriller</genre>
+    <rating>7.4</rating>
+</movie>
+
+    
+  <movie>
+    
+	  <title>John Wick</title>
+	  <index>0</index>
+	  <ilink>https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg</ilink>
+	  <vlink>"https://www.youtube.com/embed/l1g0fn5Nm_g?autoplay=1&amp;controls=0"</vlink>
+	  <info>Keanu Reeves stars as John Wick, a legendary hitman who comes out of retirement to seek revenge against the men who killed his dog, a final gift from his recently deceased wife. The film also stars Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe. </info>
+	  <cast>
+	  		Keanu Reeves |
+			Michael Nyqvist |
+			Alfie Allen 
+	  </cast>
+	  <year>2023</year>
+	  <director>John Krasinski</director>
+	  <genre>Action</genre>
+	  <rating>8.5</rating>
+  </movie>
+  <movie>
+	  <title>Avengers Endgame</title>
+	  <index>1</index>
+	  <ilink>https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg</ilink>
+	  <vlink>"https://www.youtube.com/embed/TcMBFSGVi1c?autoplay=1&amp;controls=0"</vlink>
+	  <info>After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.</info>
+	  <cast>Robert Downey Jr. | Chris Evans | Mark Ruffalo</cast>
+	  <year>2019</year>
+	  <director>Anthony Russo, Joe Russo</director>
+	  <genre>Action, Adventure</genre>
+	  <rating>9.1</rating>
+  </movie>
+  
+<movie>
+    <title>Up</title>
+	<index>7</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/0/05/Up_%282009_film%29.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/HWEW_qTLSEE?autoplay=1&amp;controls=0"</vlink>
+    <info>A heartwarming animated tale about an elderly man's adventure in a house lifted by balloons.</info>
+    <cast>Edward Asner | Jordan Nagai</cast>
+    <year>2009</year>
+    <director>Pete Docter</director>
+    <genre>Animation, Adventure</genre>
+    <rating>8.3</rating>
+</movie>
+
+
+
+
+
+
+
+<movie>
+    <title>Alien</title>
+    <index>2</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/c/c3/Alien_movie_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/jQ5lPt9edzQ?autoplay=1&amp;controls=0"</vlink>
+    <info>A groundbreaking sci-fi horror film about a crew that encounters a deadly extraterrestrial creature.</info>
+    <cast>Sigourney Weaver, Tom Skerritt</cast>
+    <year>1979</year>
+    <director>Ridley Scott</director>
+    <genre>Horror, Sci-Fi</genre>
+    <rating>8.4</rating>
+</movie>
+
+<movie>
+    <title>Chakde! India</title>
+    <index>3</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/0/0c/Chak_De%21_India.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/6a0-dSMWm5g?autoplay=1&amp;controls=0"</vlink>
+    <info>A sports drama about the Indian women's national field hockey team and their journey to victory.</info>
+    <cast>Shah Rukh Khan | Vidya Malvade</cast>
+    <year>2007</year>
+    <director>Shimit Amin</director>
+    <genre>Drama, Sport</genre>
+    <rating>8.2</rating>
+</movie>
+
+<movie>
+    <title>My Name Is Khan</title>
+    <index>4</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/5/5d/My_Name_Is_Khan_film_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/nqxgYT3TYzY?autoplay=1&amp;controls=0"</vlink>
+    <info>A heartwarming film about a man with Asperger's syndrome who embarks on a journey to meet the President of the United States.</info>
+    <cast>Shah Rukh Khan | Kajol</cast>
+    <year>2010</year>
+    <director>Karan Johar</director>
+    <genre>Drama, Romance</genre>
+    <rating>8.0</rating>
+</movie>
+
+
+
+<movie>
+    <title>Whiplash</title>
+    <index>6</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/oAhvG3wIE_g?autoplay=1&amp;controls=0"</vlink>
+    <info>A tense drama about a young jazz drummer and his demanding music instructor.</info>
+    <cast>Miles Teller | J.K. Simmons</cast>
+    <year>2014</year>
+    <director>Damon Chazelle</director>
+    <genre>Drama, Music</genre>
+    <rating>8.5</rating>
+</movie>
+
+<movie>
+    <title>Requiem for a Dream</title>
+    <index>7</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/9/92/Requiem_for_a_dream.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/QBwzN4v1vA0?autoplay=1&amp;controls=0"</vlink>
+    <info>A harrowing exploration of addiction and its impact on four individuals.</info>
+    <cast>Jennifer Connelly | Jared Leto</cast>
+    <year>2000</year>
+    <director>Darren Aronofsky</director>
+    <genre>Drama</genre>
+    <rating>8.3</rating>
+</movie>
+
+<movie>
+    <title>Coco</title>
+    <index>8</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/Rvr68u6k5sI?autoplay=1&amp;controls=0"</vlink>
+    <info>An animated journey into the Land of the Dead, where a young boy uncovers his family's secrets.</info>
+    <cast>Anthony Gonzalez | Gael García Bernal</cast>
+    <year>2017</year>
+    <director>Lee Unkrich, Adrian Molina</director>
+    <genre>Animation, Family</genre>
+    <rating>8.4</rating>
+</movie>
+
+
+
+<movie>
+    <title>Before Sunset</title>
+    <index>10</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/d/d1/Before_Sunset_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/oI3UuneLcyU?autoplay=1&amp;controls=0"</vlink>
+    <info>A romantic drama that follows a couple reconnecting in Paris after nine years.</info>
+    <cast>Julie Delpy | Ethan Hawke</cast>
+    <year>2004</year>
+    <director>Richard Linklater</director>
+    <genre>Drama, Romance</genre>
+    <rating>8.0</rating>
+</movie>
+
+<movie>
+    <title>Before Midnight</title>
+    <index>11</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/a/ad/Before_Midnight_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/Kv6JWoVKlGY?autoplay=1&amp;controls=0"</vlink>
+    <info>The third film in the Before series, exploring the challenges and changes in a couple's relationship over time.</info>
+    <cast>Julie Delpy | Ethan Hawke</cast>
+    <year>2013</year>
+    <director>Richard Linklater</director>
+    <genre>Drama, Romance</genre>
+    <rating>7.9</rating>
+</movie>
+
+
+
+<movie>
+    <title>Eternal Sunshine of the Spotless Mind</title>
+    <index>13</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/a/a4/Eternal_Sunshine_of_the_Spotless_Mind.png</ilink>
+    <vlink>"https://www.youtube.com/embed/07-QBnEkgXU?autoplay=1&amp;controls=0"</vlink>
+    <info>A mind-bending romance exploring the memories of a relationship that a couple tries to erase.</info>
+    <cast>Jim Carrey | Kate Winslet</cast>
+    <year>2004</year>
+    <director>Michel Gondry</director>
+    <genre>Drama, Romance, Sci-Fi</genre>
+    <rating>8.3</rating>
+</movie>
+
+
+<movie>
+    <title>500 Days of Summer</title>
+    <index>14</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/d/d1/Five_hundred_days_of_summer.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/PsD0NpFSADM?autoplay=1&amp;controls=0"</vlink>
+    <info>A non-linear romantic comedy-drama about a man reflecting on his past relationship with a woman named Summer.</info>
+    <cast>Joseph Gordon-Levitt | Zooey Deschanel</cast>
+    <year>2009</year>
+    <director>Marc Webb</director>
+    <genre>Comedy, Romance</genre>
+    <rating>7.7</rating>
+</movie>
+
+<movie>
+    <title>The Truman Show</title>
+    <index>15</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/c/cd/Trumanshow.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/dlnmQbPGuls?autoplay=1&amp;controls=0"</vlink>
+    <info>A satirical drama about a man who discovers his entire life is a reality TV show.</info>
+    <cast>Jim Carrey | Laura Linney</cast>
+    <year>1998</year>
+    <director>Peter Weir</director>
+    <genre>Drama, Sci-Fi</genre>
+    <rating>8.1</rating>
+</movie>
+
+<movie>
+    <title>Dumb and Dumber</title>
+    <index>16</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/6/64/Dumbanddumber.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/l13yPhimE3o?autoplay=1&amp;controls=0"</vlink>
+    <info>A comedy about two dim-witted friends embarking on a cross-country road trip.</info>
+    <cast>Jim Carrey | Jeff Daniels</cast>
+    <year>1994</year>
+    <director>Peter Farrelly, Bobby Farrelly</director>
+    <genre>Comedy</genre>
+    <rating>7.3</rating>
+</movie>
+
+
+
+
+
+
+<movie>
+    <title>Barfi!</title>
+    <index>19</index>
+    <ilink>https://upload.wikimedia.org/wikipedia/en/2/2e/Barfi%21_poster.jpg</ilink>
+    <vlink>"https://www.youtube.com/embed/Y5MRdAhLTbc?autoplay=1&amp;controls=0"</vlink>
+    <info>A heartwarming story of a deaf and mute young man and his relationships with two women, showcasing the beauty of love and friendship.</info>
+    <cast>Ranbir Kapoor | Priyanka Chopra | Ileana D'Cruz</cast>
+    <year>2012</year>
+    <director>Anurag Basu</director>
+    <genre>Comedy, Romance</genre>
+    <rating>8.1</rating>
+</movie>
+
+
+
+</moviedetails>
